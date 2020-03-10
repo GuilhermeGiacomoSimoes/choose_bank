@@ -1,0 +1,2 @@
+I created this algorithm to choose the best bank to open a PJ account.
+I used some parameters to compare them and their weights for each parameter. The bank with the highest score is the champion bank
